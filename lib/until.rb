@@ -8,7 +8,7 @@ end
 
 using_while 
   i = 0
-  while i =< 10 
+  while i <= 10 
     puts "wingardium Levirosa"
     i += 1
   end
