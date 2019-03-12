@@ -6,3 +6,6 @@ def using_until
   end
 end
 
+using_while 
+  i = 0
+end
