@@ -10,7 +10,7 @@ def using_while
   i = 0
   
   while i < 11
-    puts ""
+    puts "Wingardium Leviosa"
     i += 1
   end
 end
