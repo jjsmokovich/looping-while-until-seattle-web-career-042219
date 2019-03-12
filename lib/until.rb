@@ -12,5 +12,6 @@ using_while
   while i < 10 
     puts "wingardium Levirosa"
     i += 1
+    end
   end
 end
