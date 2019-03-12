@@ -7,7 +7,7 @@ def using_until
 end
 
 def using_while 
-  i = 0
+  i = 6
   
   while i < 10 
     puts "wingardium Levirosa"
