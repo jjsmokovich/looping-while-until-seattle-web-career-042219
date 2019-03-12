@@ -6,7 +6,7 @@ def using_until
   end
 end
 
-using_while 
+def using_while 
   i = 0
   
   while i < 10 
