@@ -5,8 +5,3 @@ def using_until
     i += 1
   end
 end
-
-def using_while
-  i = 6 
-  
-end
